@@ -7,8 +7,8 @@
 !**print_macros.cfg
 !**/adxlmcu.cfg
 !README.md
-!**/Line_Purge.cfg
-!**/Adaptive_Meshing.cfg
-!**/KAMP_Settings.cfg
-!**/adaptive_bed_mesh.cfg
+!**Line_Purge.cfg
+!**Adaptive_Meshing.cfg
+!**KAMP_Settings.cfg
+!**adaptive_bed_mesh.cfg
 	
